@@ -8,8 +8,9 @@
 - 
 
 ##🔧 Tools & Technologies
--HTML, JavaScrip, CSS
--Java, C#, Php
--Python, SQL, Power BI
--
-*More Coming Soon...*
+- HTML, JavaScrip, CSS
+- Java, C#, Php
+- Python, SQL, Power BI
+ *More Coming Soon...*
+
+
