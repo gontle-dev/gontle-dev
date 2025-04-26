@@ -7,10 +7,10 @@
 - 😄 Pronouns: Her/She
 - 
 
-##🔧 Tools & Technologies
+🔧 Tools & Technologies
 - HTML, JavaScrip, CSS
 - Java, C#, Php
 - Python, SQL, Power BI
- *More Coming Soon...*
+ *- More Coming Soon...*
 
 
