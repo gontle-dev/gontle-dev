@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Gontle
 
-<!--
-**gontle-dev/gontle-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a final-year student doing my diploma in IT in Software Development
+- 🌱 I’m concurrently mastering skills in SQL and  Excel and learning Python and Power BI
+- 👀 I'm exploring data analytics, dashboards, and software projects
+- 📫 How to reach me: on LinkedIn https://www.linkedin.com/in/gontle-thekoeng-110991269/?trk=opento_sprofile_topcard
+- 😄 Pronouns: Her/She
+- 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🔧 Tools & Technologies
+-HTML, JavaScrip, CSS
+-Java, C#, Php
+-Python, SQL, Power BI
+-
+*More Coming Soon...*
